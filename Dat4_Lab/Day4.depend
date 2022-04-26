@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1642856398 source:d:\work\instructor\ds\intake 42\iot\day4\main.cpp
+	<iostream>
+	"Tree.h"
+
+1642856690 d:\work\instructor\ds\intake 42\iot\day4\include\tree.h
+	<iostream>
+	"Node.h"
+
+1642849126 d:\work\instructor\ds\intake 42\iot\day4\include\node.h
+
+1642868111 source:d:\iti\data structures\day4\dat4_lab\main.cpp
+	<iostream>
+	"Tree.h"
+
+1642868187 d:\iti\data structures\day4\dat4_lab\include\tree.h
+	<iostream>
+	"Node.h"
+
+1642849126 d:\iti\data structures\day4\dat4_lab\include\node.h
+

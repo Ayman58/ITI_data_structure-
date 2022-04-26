@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1642784364 source:d:\iti\data structures\day2\lab2\main.cpp
+	"LinkedList.h"
+	<iostream>
+	"Stack.h"
+	"QueueList.h"
+	"QuShiftArr.h"
+
+1642784117 d:\iti\data structures\day2\lab2\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1642784117 d:\iti\data structures\day2\lab2\include\node.h
+
+1642784340 d:\iti\data structures\day2\lab2\include\stack.h
+
+1642784418 d:\iti\data structures\day2\lab2\include\queuelist.h
+
+1642784418 d:\iti\data structures\day2\lab2\include\qushiftarr.h
+
